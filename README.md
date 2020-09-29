@@ -106,3 +106,22 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 UIKit and SwiftUI. 
 
 </details> 
+
+## Tools 
+
+#### Name two dependency managers, can you name three ?
+
+<details> 
+  <summary>Solution</summary> 
+
+Swift Package Manager, Cocoa Pods and Carthage.
+
+</details> 
+
+#### What's the difference between `git` and `Github`? 
+
+  <summary>Solution</summary> 
+
+`git` is an open source versioning system. `Github` is an online versioning platform that uses `git` now owned by Microsoft. Other competitors to `Github` are: `BitBucket` and `GitLab`. 
+
+</details> 
