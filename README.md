@@ -132,6 +132,33 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 
 </details> 
 
+
+#### What is dependency injection? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
+#### What framework is used for writing Unit Test in iOS ?  
+
+<details> 
+  <summary>Solution</summary> 
+
+XCTest
+
+</details> 
+
+#### What is a Singleton? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
 #### Is `URLSession` part of `Foundation` or `UIKit`? 
 
 <details> 
@@ -145,6 +172,7 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 <details> 
   <summary>Solution</summary> 
 
+Compile time errors occurs during the writing phase of your code. Runtime erros occurs during the launch and actual use of the application. 
 
 </details> 
 
@@ -153,6 +181,7 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 <details> 
   <summary>Solution</summary> 
 
+`Index out of range` is a runtime error. 
 
 </details> 
 
@@ -162,6 +191,7 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 <details> 
   <summary>Solution</summary> 
 
+Structs are passed-by value (value-types) meaning copies of the objects are passed around thereby making the objects immutable by default. Classes are reference types and their state is easily mutated as objects that have the same reference can make changes at will. 
 
 </details> 
 
@@ -171,6 +201,7 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 <details> 
   <summary>Solution</summary> 
 
+`NSString` is an objective-c API and is a class. With interopobality we can easily bridge between Swift `String` and `NSString`. 
 
 </details> 
 
@@ -180,6 +211,7 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 <details> 
   <summary>Solution</summary> 
 
+The frame represents an object's superview and it's relationship in the coordinate space, whereas the bounds represents the objects own size and location.
 
 </details> 
 
@@ -200,6 +232,7 @@ UIKit and SwiftUI.
 <details> 
   <summary>Solution</summary> 
 
+Prior to Automatic reference counting in Objective-C developers needed to keep track of retain and release cycles of objects that were created. With the introduction of ARC now the system does most of the automatic retain/release counting and mememory management for us with limitations such as capturing closures where we need to use weak/unowned as needed.
 
 </details> 
 
@@ -242,6 +275,15 @@ Swift Package Manager, Cocoa Pods and Carthage.
 
 </details> 
 
+#### What is Core Data? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Core Data is an object-relatioal graph model of representing and persisting data in an appliation.
+
+</details> 
+
 ## Networking 
 
 #### What is HTTP? 
@@ -249,6 +291,7 @@ Swift Package Manager, Cocoa Pods and Carthage.
 <details> 
   <summary>Solution</summary> 
 
+HTTP is an internet protocol for allowing client/server communication. The client in this case our iOS app makes a request to a Web API / server and gets a response (json) back that we parse (convert) to Swift objects.
 
 </details> 
 
