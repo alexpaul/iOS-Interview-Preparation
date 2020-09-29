@@ -1,6 +1,4 @@
-# iOS-Interview-Preparation
-
-iOS Interview Preparation.
+# iOS Interview Preparation
 
 
 ## Swift Fundamentals 
@@ -95,5 +93,16 @@ A paradigm used in programming to represent objects and encapsule the properties
   <summary>Solution</summary> 
 
 In Swift this is a paradigm used to describe the blueprint of functions and properties that the conforming object needs to adhere to.
+
+</details> 
+
+## iOS Fundamentals 
+
+#### What are the two native frameworks used to create user interfaces in iOS? 
+
+<details> 
+  <summary>Solution</summary> 
+
+UIKit and SwiftUI. 
 
 </details> 
