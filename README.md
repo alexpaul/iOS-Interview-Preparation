@@ -26,6 +26,16 @@ A mutable allows for change. An immutable does not allow for changes.
 <details> 
   <summary>Solution</summary> 
 
+A function that called itself.
+
+</details> 
+
+#### What's the benefit of an inout function? 
+
+<details> 
+  <summary>Solution</summary> 
+
+To be able to mutate via referencing the data outside the scope of a function.
 
 </details> 
 
