@@ -12,6 +12,14 @@ A mutable allows for change. An immutable does not allow for changes.
  
 </details> 
 
+#### What is a property observer? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
 ####  Write code to access the last element of an array ?
 
 <details> 
@@ -104,6 +112,49 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 
 </details> 
 
+#### What's the difference between a compile time error and a runtime error? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+#### Is `Index out of range` error on an array an compile-time error or a runtime error? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
+#### What's the difference between Structs and Classes? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
+#### Is `NSString` a class or a struct? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
+#### What's the difference between frames and bounds? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
 
 ## iOS Fundamentals 
 
@@ -121,6 +172,15 @@ UIKit and SwiftUI.
 <details> 
   <summary>Solution</summary> 
 
+
+</details> 
+
+#### What is MVC?  
+
+<details> 
+  <summary>Solution</summary> 
+
+No it doesn't stand for massive view controller. 😀
 
 </details> 
 
@@ -190,6 +250,35 @@ Swift Package Manager, Cocoa Pods and Carthage.
 </details> 
 
 ### What's the difference between Websockets and HTTP ?
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
+## Firebase 
+
+#### What are the two types of databases that Firebase supports? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Firebase realtime database and Firebase firestore. 
+
+</details> 
+
+
+#### Describe the importance of the `Google-Info.plist` file? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+#### What are Firebase rules? 
 
 <details> 
   <summary>Solution</summary> 
