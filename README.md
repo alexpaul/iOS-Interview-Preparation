@@ -96,6 +96,15 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 
 </details> 
 
+#### Is `URLSession` part of `Foundation` or `UIKit`? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
 ## iOS Fundamentals 
 
 #### What are the two native frameworks used to create user interfaces in iOS? 
@@ -104,6 +113,23 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
   <summary>Solution</summary> 
 
 UIKit and SwiftUI. 
+
+</details> 
+
+#### What is ARC ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+#### What is `URLSession` ?
+
+<details> 
+  <summary>Solution</summary> 
+
+The class that manages Netowrking in iOS. 
 
 </details> 
 
@@ -128,3 +154,45 @@ Swift Package Manager, Cocoa Pods and Carthage.
 
 </details> 
 
+## Networking 
+
+#### What is HTTP? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+#### What is `CRUD` ?
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+
+### Explain RESTFul ?
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+### What is a MIME type ?
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
+### What's the difference between Websockets and HTTP ?
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
