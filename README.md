@@ -190,7 +190,7 @@ No it doesn't stand for massive view controller. 😀
 <details> 
   <summary>Solution</summary> 
 
-The class that manages Netowrking in iOS. 
+The class that manages Networking in iOS. 
 
 </details> 
 
