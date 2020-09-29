@@ -4,7 +4,7 @@
 
 ## Swift Fundamentals 
 
-####  What's the difference between mutable and immuatable ?
+####  What's the difference between mutable and immutable ?
 
 <details> 
   <summary>Solution</summary> 
