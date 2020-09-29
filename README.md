@@ -211,7 +211,7 @@ Swift Package Manager, Cocoa Pods and Carthage.
 <details> 
   <summary>Solution</summary> 
 
-`git` is an open source versioning system. `Github` is an online versioning platform that uses `git` now owned by Microsoft. Other competitors to `Github` are: `BitBucket` and `GitLab`. 
+`git` is an open source versioning system. `Github` is an online versioning platform for project collaboration now owned by Mr. Softie. Other competitors to `Github` are: `BitBucket` and `GitLab`. 
 
 </details> 
 
