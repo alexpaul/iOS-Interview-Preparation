@@ -67,6 +67,15 @@ In Swift an optional is a type used to indicate that an object can or not have a
  
 </details> 
 
+#### What is GCD? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Grand central dispacth is the library that iOS uses to handle concurrency. 
+
+</details> 
+
 #### Name the following looping constructs in Swift ?
 
 <details> 
