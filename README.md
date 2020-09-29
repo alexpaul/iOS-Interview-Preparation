@@ -21,6 +21,14 @@ A mutable allows for change. An immutable does not allow for changes.
 
 </details> 
 
+#### What is recursion? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
 ####  Write code to access the last element of an array ?
 
 <details> 
