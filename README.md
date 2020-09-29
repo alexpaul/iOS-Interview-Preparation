@@ -120,8 +120,11 @@ Swift Package Manager, Cocoa Pods and Carthage.
 
 #### What's the difference between `git` and `Github`? 
 
+
+<details> 
   <summary>Solution</summary> 
 
 `git` is an open source versioning system. `Github` is an online versioning platform that uses `git` now owned by Microsoft. Other competitors to `Github` are: `BitBucket` and `GitLab`. 
 
 </details> 
+
