@@ -301,6 +301,15 @@ Interface Builder and NS stands for Next Step in the job process. Reminder to be
 
 </details> 
 
+#### Name the ways to persist data in iOS ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+UserDefaults, Documents directory and Core Data.
+
+</details> 
+
 #### What is ARC ? 
 
 <details> 
@@ -325,6 +334,15 @@ No it doesn't stand for massive view controller. 😀
   <summary>Solution</summary> 
 
 The class that manages Networking in iOS. 
+
+</details> 
+
+#### Name three types of gesture recognizers ?
+
+<details> 
+  <summary>Solution</summary> 
+
+UITapGestureRecognizer, UISwipeGestureRecognizer and UILongPressGestureRecognizer. 
 
 </details> 
 
@@ -378,11 +396,12 @@ HTTP is an internet protocol for allowing client/server communication. The clien
 </details> 
 
 
-### Explain RESTFul ?
+### Explain RESTFul APIs ?
 
 <details> 
   <summary>Solution</summary> 
 
+REST is an standard architecture that web developers use present data to a client. 
 
 </details> 
 
@@ -391,6 +410,7 @@ HTTP is an internet protocol for allowing client/server communication. The clien
 <details> 
   <summary>Solution</summary> 
 
+MIME (Multipurpose Internet Mail Extensions) type is a label used to describe the media content of a piece of data.
 
 </details> 
 
@@ -399,6 +419,11 @@ HTTP is an internet protocol for allowing client/server communication. The clien
 <details> 
   <summary>Solution</summary> 
 
+Websockets allow for a constant two-way stream of data and HTTP transfers data via a request -> response model. 
+
+e.g Stock market ticker uses websockets for real time data streaming. 
+
+e.g Fetching a new Instagrm photo using http protocol, client request, server response.
 
 </details> 
 
