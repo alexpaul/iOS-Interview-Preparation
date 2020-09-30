@@ -199,13 +199,13 @@ In Swift this is a paradigm used to describe the blueprint of functions and prop
 import UIKit
 
 protocol Vehicle {
-  var wheels: Int { set get }
+  var wheels: Int { get }
   var color: UIColor { set get }
   func drive(speed: Int)
 }
 
 struct Bike: Vehicle {
-  var wheels = 2
+  let wheels = 2
   var color = UIColor.systemGray
   
   func drive(speed: Int) {
