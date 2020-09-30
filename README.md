@@ -99,6 +99,9 @@ jobSearch(false)
 <details> 
   <summary>Solution</summary> 
 
+`Hashable`. Types conforming to `Hashable` will be guaranteed to be unique.
+`CaseIterable`. Enums conforming to `CaseIterable` will make all their cases available and iterable.
+`CustomStringConvertible`. Conforming to `CustomStringConvertible` allows a type to override the description property on an object and return a custom String.
 
 </details> 
 
@@ -154,7 +157,7 @@ Grand central dispacth is the library that iOS uses to handle concurrency.
 <details> 
   <summary>Solution</summary>   
 
-while, for-loop and repeat-while
+while, for-in and repeat-while
  
 </details> 
 
@@ -268,6 +271,7 @@ bike.drive(speed: 23) // current speed is 23
 <details> 
   <summary>Solution</summary> 
 
+Dependency Injection is used to pass all required properties and data over to an object. This is better done through the use on an initializer as the object can fully encapsulate its properties.
 
 </details> 
 
@@ -286,6 +290,9 @@ XCTest
 <details> 
   <summary>Solution</summary> 
 
+A singleton is making use of one instance of a class throughout the life of the launch of an application. One of the main pillars of singleton is the use of marking initializers private so accidental creation of multiple instances is prohibited.  
+
+Singletons are used throughout iOS in places like `UserDefaults.standard`, `FileManager.default` and `UIApplication.shared`. 
 
 </details> 
 
@@ -294,6 +301,7 @@ XCTest
 <details> 
   <summary>Solution</summary> 
 
+URLSession is part of the Foundation framework.
 
 </details> 
 
@@ -434,6 +442,9 @@ Core Data is an object-relatioal graph model of representing and persisting data
 <details> 
   <summary>Solution</summary> 
 
+TestFlight is used as a method of beta testing an application as it gets ready for production. 
+
+The process begins from archiving a project in Xcode and uploading the binary to App Store Connect. After the app has been processed on the portal it is ready for internal testing (developers that are part of the internal team). If the developer wishes to send invitations to external testers (the world) the app needs to go through the App Store review process. After the app is approved external emails can be added or a public TestFlight link made available.
 
 </details> 
 
