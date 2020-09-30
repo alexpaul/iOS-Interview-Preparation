@@ -183,7 +183,7 @@ The keys need to conform to `Hashable`.
 <details> 
   <summary>Solution</summary> 
 
-A paradigm used in programming to represent objects and encapsule the properties and functions. 
+A paradigm used in programming to represent objects and encapsulate their properties and functions. 
 
 </details> 
 
@@ -193,7 +193,30 @@ A paradigm used in programming to represent objects and encapsule the properties
 <details> 
   <summary>Solution</summary> 
 
-In Swift this is a paradigm used to describe the blueprint of functions and properties that the conforming object needs to adhere to.
+In Swift this is a paradigm used to describe the blueprint of functions and properties that a conforming object needs to adhere to.
+
+```swift 
+import UIKit
+
+protocol Vehicle {
+  var wheels: Int { set get }
+  var color: UIColor { set get }
+  func drive(speed: Int)
+}
+
+struct Bike: Vehicle {
+  var wheels = 2
+  var color = UIColor.systemGray
+  
+  func drive(speed: Int) {
+    print("current speed is \(speed)")
+  }
+}
+
+let bike = Bike()
+
+bike.drive(speed: 23) // current speed is 23
+```
 
 </details> 
 
