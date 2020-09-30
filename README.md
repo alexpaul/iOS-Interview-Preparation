@@ -469,7 +469,7 @@ XML and JSON, the latter being the more popular and easier to understand and par
 
 
 
-### Explain RESTFul APIs ?
+#### Explain RESTFul APIs ?
 
 <details> 
   <summary>Solution</summary> 
@@ -478,7 +478,7 @@ REST is an standard architecture that web developers use present data to a clien
 
 </details> 
 
-### What is a MIME type ?
+#### What is a MIME type ?
 
 <details> 
   <summary>Solution</summary> 
@@ -487,7 +487,7 @@ MIME (Multipurpose Internet Mail Extensions) type is a label used to describe th
 
 </details> 
 
-### What's the difference between Websockets and HTTP ?
+#### What's the difference between Websockets and HTTP ?
 
 <details> 
   <summary>Solution</summary> 
