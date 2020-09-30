@@ -369,6 +369,32 @@ UITapGestureRecognizer, UISwipeGestureRecognizer and UILongPressGestureRecognize
 
 </details> 
 
+#### Which built-in tool do we use to test performance of our application ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+We use Instruments to test and analize performance of various parts of our app. Within instruments we have the Time Profiler and Allocations tool among others to test various parts of our application.
+
+</details> 
+
+#### What is Core Data ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Core Data is an object-relatioal graph model of representing and persisting data in an appliation.
+
+</details> 
+
+#### What is TestFlight and describe its process ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
 ## Tools 
 
 #### Name two dependency managers, can you name three ?
@@ -390,14 +416,6 @@ Swift Package Manager, Cocoa Pods and Carthage.
 
 </details> 
 
-#### What is Core Data? 
-
-<details> 
-  <summary>Solution</summary> 
-
-Core Data is an object-relatioal graph model of representing and persisting data in an appliation.
-
-</details> 
 
 ####  Describe the ways in which a view can be created ?
 
@@ -406,6 +424,15 @@ Core Data is an object-relatioal graph model of representing and persisting data
  
 Programmatically, using Storyboard or a xib.
  
+</details> 
+
+
+#### What is Continuous Integration / Continuous Deployment? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
 </details> 
 
 
