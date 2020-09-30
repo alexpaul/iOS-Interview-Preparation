@@ -57,7 +57,31 @@ age = 21
 <details> 
   <summary>Solution</summary> 
 
-A function that called itself.
+A function that calls itself. The two main parts of a recursive function is the **base case** and the **recursive call**. 
+
+```swift
+func jobSearch(_ isHired: Bool) {
+  // base case
+  guard !isHired else {
+    print("Woohoo")
+    print("Everyone's journey is different")
+    return
+  }
+  // recursive call
+  print("Job searching...")
+  jobSearch(Bool.random())
+}
+
+jobSearch(false)
+
+/*
+ Job searching...
+ Job searching...
+ Job searching...
+ Woohoo
+ Everyone's journey is different
+*/ 
+```
 
 </details> 
 
