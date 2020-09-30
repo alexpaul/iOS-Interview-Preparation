@@ -131,12 +131,22 @@ Grand central dispacth is the library that iOS uses to handle concurrency.
 
 </details> 
 
-#### Name the following looping constructs in Swift ?
+#### Name the types of loops available in Swift ?
 
 <details> 
   <summary>Solution</summary>   
 
 while, for-loop and repeat-while
+ 
+</details> 
+
+
+#### If using a Command-line macOS application what's the function used for taking user input ?
+
+<details> 
+  <summary>Solution</summary>   
+
+For user input or STDIN when working in a command-line application we use `readLine()`. 
  
 </details> 
 
