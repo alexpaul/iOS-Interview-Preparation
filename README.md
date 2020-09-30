@@ -9,7 +9,19 @@
 <details> 
   <summary>Solution</summary> 
  
-A mutable allows for change. An immutable does not allow for changes.
+A mutable object allows for change. An immutable object does not allow for changes.
+
+Mutable object 
+```swift 
+var currentYear = 2020
+currentYear = 2021 // could not come fast enough
+```
+
+Immutable object
+```swift 
+let usIndependenceDay = "July 4th"
+usIndependenceDay = "February 22nd" // sorry could not compile, this is 🇱🇨 Independence day
+```
  
 </details> 
 
