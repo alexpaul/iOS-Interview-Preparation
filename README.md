@@ -201,7 +201,31 @@ The keys need to conform to `Hashable`.
 <details> 
   <summary>Solution</summary> 
 
-A paradigm used in programming to represent objects and encapsulate their properties and functions. 
+A paradigm used in programming to represent objects and encapsulate their properties and functions.
+
+```swift 
+// Parent class
+class Person {
+  var name: String
+  var age: Int
+  
+  init(name: String, age: Int) {
+    self.name = name
+    self.age = age
+  }
+  
+  func info() {
+    print("Hi, my name is \(name)")
+  }
+}
+
+// Fellow inherits from the Person class
+// Subclass
+class Fellow: Person {}
+
+let fellow = Fellow(name: "Xavier Li", age: 23)
+fellow.info() // Hi, my name is Xavier Li
+```
 
 </details> 
 
