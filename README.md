@@ -143,6 +143,29 @@ In Swift an optional is a type used to indicate that an object can or not have a
  
 </details> 
 
+#### What are Closures ?
+
+<details> 
+  <summary>Solution</summary> 
+  
+Closures are anonymous functions (functions without a name) that capture references to values in their surrounding context. This is one of the subtle differences between functions and closures. Please note however that nested functions also capture their surrounding values. 
+
+```swift 
+// someFunc definition with a closure parameter
+func someFunc(action: (Int, Bool) -> ()) {
+  let internalValue = 20
+  action(8 + internalValue, Bool.random()) // the action closure captures the Int and Bool values
+}
+
+
+// someFunc call using trailing closure syntax
+someFunc { intValue, boolValue in
+  print("closure captured values are \(intValue) and \(boolValue)") // closure captured values are 28 and false
+}
+```
+ 
+</details> 
+
 #### What is GCD? 
 
 <details> 
