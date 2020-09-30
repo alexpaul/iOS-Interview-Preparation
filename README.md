@@ -30,6 +30,25 @@ usIndependenceDay = "February 22nd" // sorry could not compile, this is 🇱🇨
 <details> 
   <summary>Solution</summary> 
 
+A property observer listens for changes on a object. One can listen for changes when the object is about to get set and when the object actuallly got set.
+
+```swift 
+var age = 20 {
+  willSet {
+    print("it's about to get fun")
+  }
+  didSet {
+    print("with great power comes great responsibility")
+  }
+}
+
+age = 21
+
+/*
+ it's about to get fun
+ with great power comes great responsibility
+*/
+```
 
 </details> 
 
