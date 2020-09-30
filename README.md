@@ -292,6 +292,15 @@ UIKit and SwiftUI.
 
 </details> 
 
+#### What does the `IB` in `IBOutlet` or `IBAction` stand for? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Interface Builder and NS stands for Next Step in the job process. Reminder to be nice. 
+
+</details> 
+
 #### What is ARC ? 
 
 <details> 
