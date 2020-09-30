@@ -1,6 +1,6 @@
 # iOS Interview Preparation
 
-> Objective is to keep this as to date as possible. Advance apologies if some answers are missing. Email Github :-]
+> Objective is to keep this as to date as possible. Advance apologies if some answers are missing. Don't email the author :-]
 
 ## Swift Fundamentals 
 
