@@ -11,7 +11,7 @@
  
 A mutable object allows for change. An immutable object does not allow for changes.
 
-Mutable object 
+Mutable object L
 ```swift 
 var currentYear = 2020
 currentYear = 2021 // could not come fast enough
@@ -25,7 +25,7 @@ usIndependenceDay = "February 22nd" // sorry could not compile, this is 🇱🇨
  
 </details> 
 
-#### What is a property observer? 
+#### What is a property observer? '
 
 <details> 
   <summary>Solution</summary> 
@@ -99,9 +99,9 @@ jobSearch(false)
 <details> 
   <summary>Solution</summary> 
 
-`Hashable`. Types conforming to `Hashable` will be guaranteed to be unique.
-`CaseIterable`. Enums conforming to `CaseIterable` will make all their cases available and iterable.
-`CustomStringConvertible`. Conforming to `CustomStringConvertible` allows a type to override the description property on an object and return a custom String.
+`Hashable`. Types conforming to `Hashable` will be guaranteed to be unique.  
+`CaseIterable`. Enums conforming to `CaseIterable` will make all their cases available and iterable.  
+`CustomStringConvertible`. Conforming to `CustomStringConvertible` allows a type to override the description property on an object and return a custom String.  
 
 </details> 
 
