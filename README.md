@@ -52,6 +52,15 @@ age = 21
 
 </details> 
 
+#### What are higher order functions? 
+
+<details> 
+  <summary>Solution</summary> 
+
+A function that takes another function as an argument or returns a function is said to be a higher order function. This is the fundamental pillar of functional programming. 
+
+</details> 
+
 #### What is recursion? 
 
 <details> 
@@ -84,6 +93,15 @@ jobSearch(false)
 ```
 
 </details> 
+
+#### Name three built-in protocols in Swift and their use cases? 
+
+<details> 
+  <summary>Solution</summary> 
+
+
+</details> 
+
 
 #### What's the benefit of an inout function? 
 
