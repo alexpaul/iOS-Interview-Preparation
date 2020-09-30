@@ -480,11 +480,12 @@ Programmatically, using Storyboard or a xib.
 </details> 
 
 
-#### What is Continuous Integration / Continuous Deployment? 
+#### What is Continuous Integration (CI) / Continuous Deployment (CD) ? 
 
 <details> 
   <summary>Solution</summary> 
 
+Continuous Integration (CI) / Continuous Deployment (CD) is the automation process of connecting your software stack along with testing to ease versioning and deploying software, in our case automatically creating TestFlight builds or App Store builds.
 
 </details> 
 
@@ -514,6 +515,7 @@ HTTP is an internet protocol for allowing client/server communication. The clien
 <details> 
   <summary>Solution</summary> 
 
+Create.Read.Update.Delete. This acronym encapsulated the cycle of object creation and modification. 
 
 </details> 
 
@@ -598,6 +600,7 @@ Firebase realtime database and Firebase firestore.
 <details> 
   <summary>Solution</summary> 
 
+The `Google-Info.plist` is a property list that encompasses the configurations and connects your Xcode project and Firebase project.
 
 </details> 
 
@@ -606,5 +609,6 @@ Firebase realtime database and Firebase firestore.
 <details> 
   <summary>Solution</summary> 
 
+Firebase rules provides various levels of security on documents and collections in the Firebase database and storage services.
 
 </details> 
