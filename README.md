@@ -453,7 +453,7 @@ GET, POST, DELETE, PUT, UPDATE.
 <details> 
   <summary>Solution</summary> 
  
-Status codes are recieved via an http response from a server request. 500 status code implies there's an issue with the server. 
+Status codes are recieved via an http response from a server request to indicate the state and validity of the request. 500 status code implies there's an issue with the server. 
  
 </details> 
 
