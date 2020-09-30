@@ -419,6 +419,17 @@ HTTP is an internet protocol for allowing client/server communication. The clien
 </details> 
 
 
+#### What are two ways in which web content is formatted for delivery to a client ?
+
+<details> 
+  <summary>Solution</summary> 
+
+XML and JSON, the latter being the more popular and easier to understand and parse.
+
+</details> 
+
+
+
 ### Explain RESTFul APIs ?
 
 <details> 
