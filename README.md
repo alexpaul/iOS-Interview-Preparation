@@ -399,7 +399,26 @@ Core Data is an object-relatioal graph model of representing and persisting data
 
 </details> 
 
+####  Describe the ways in which a view can be created ?
+
+<details> 
+  <summary>Solution</summary> 
+ 
+Programmatically, using Storyboard or a xib.
+ 
+</details> 
+
+
 ## Networking 
+
+#### What are the valid top level types of JSON ?
+
+<details> 
+  <summary>Solution</summary> 
+ 
+The valid top level types are dictionary and array.
+
+</details> 
 
 #### What is HTTP? 
 
@@ -416,6 +435,26 @@ HTTP is an internet protocol for allowing client/server communication. The clien
   <summary>Solution</summary> 
 
 
+</details> 
+
+
+#### Name some HTTP methods ?
+
+<details> 
+  <summary>Solution</summary> 
+ 
+GET, POST, DELETE, PUT, UPDATE.
+ 
+</details> 
+
+
+#### What is a status code and give an example ?
+
+<details> 
+  <summary>Solution</summary> 
+ 
+Status codes are recieved via an http response from a server request. 500 status code implies there's an issue with the server. 
+ 
 </details> 
 
 
