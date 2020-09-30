@@ -294,6 +294,19 @@ A singleton is making use of one instance of a class throughout the life of the 
 
 Singletons are used throughout iOS in places like `UserDefaults.standard`, `FileManager.default` and `UIApplication.shared`. 
 
+```swift 
+class GameSession {
+  static let shared = GameSession()
+  private init() {
+    // initialization of properties here
+  }
+}
+
+let session = GameSession.shared
+
+let otherSession = GameSession() // 'GameSession' initializer is inaccessible due to 'private' protection level
+```
+
 </details> 
 
 #### Is `URLSession` part of `Foundation` or `UIKit`? 
