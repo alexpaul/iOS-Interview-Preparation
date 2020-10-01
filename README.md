@@ -25,7 +25,7 @@ usIndependenceDay = "February 22nd" // sorry could not compile, this is 🇱🇨
  
 </details> 
 
-#### What is a property observer? '
+#### What is a property observer?
 
 <details> 
   <summary>Solution</summary> 
