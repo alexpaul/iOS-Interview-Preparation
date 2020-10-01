@@ -94,6 +94,20 @@ jobSearch(false)
 
 </details> 
 
+#### What are access control / modifiers and give three examples? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Access control provide varied level of access to parts of the code of an object from another source object.   
+
+Three examples are: 
+* private 
+* public 
+* internal 
+
+</details> 
+
 #### Name three built-in protocols in Swift and their use cases? 
 
 <details> 
@@ -410,12 +424,54 @@ Interface Builder and NS stands for Next Step in the job process. Reminder to be
 
 </details> 
 
+#### What are the two required methods of a `UITableViewDataSource`? 
+
+<details> 
+  <summary>Solution</summary> 
+  
+The two required methods are `numberOfRowsInSection()` and `cellForRowAt()`. 
+  
+</details> 
+
 #### Name the ways to persist data in iOS ? 
 
 <details> 
   <summary>Solution</summary> 
 
 UserDefaults, Documents directory and Core Data.
+
+</details> 
+
+#### What is `Result` type? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Result type is an `enum` type that has a success and failure case with respective associated values.
+
+```swift 
+enum AppError: Error {
+  case fetchError
+}
+
+func fetchData(completion: @escaping (Result<String, AppError>) -> ()) { // Result type used to capture state or success or failure
+  let success = Bool.random() 
+  if success {
+    completion(.success("Success"))
+  } else {
+    completion(.failure(.fetchError))
+  }
+}
+
+fetchData { result in 
+  switch result {
+    case .success (let str): 
+      print(str) // "Success"
+    case .failure (let error): 
+      print("error found: \(error)") // error found: fetchError
+  }
+}
+```
 
 </details> 
 
