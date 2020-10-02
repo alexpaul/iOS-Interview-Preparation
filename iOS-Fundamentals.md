@@ -69,6 +69,15 @@ fetchData { result in
 
 </details> 
 
+####  Describe the ways in which a view can be created ?
+
+<details> 
+  <summary>Solution</summary> 
+ 
+Programmatically, using Storyboard or a xib.
+ 
+</details> 
+
 #### What is ARC ? 
 
 <details> 
