@@ -92,7 +92,13 @@ Prior to Automatic reference counting in Objective-C developers needed to keep t
 <details> 
   <summary>Solution</summary> 
 
-No it doesn't stand for massive view controller. 😀
+MVC which stand for Model, View, Controller has been an architecture used for the last 30 years. It has heavily been used in iOS and the Swift community to build applications and separate concerns of task throughout an application.
+
+Model. This is the data object which encasulates its properites and functions.   
+View. This is the user interface of the application. This is the way in which the user interacts with our app.    
+Controller. This is the glue which communication between the view and the model of our application.    
+
+Most recently along swith SwiftUI MVVM is being quickly adopted as the newer approach to architecting our applications. 
 
 </details> 
 
