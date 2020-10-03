@@ -11,7 +11,7 @@ In computer science and programming the efficiency of an algorithm is measured u
 </details>
 
 
-#### Which sorting alogorithm uses a pivot and partioning ? 
+#### Which sorting alogorithm uses a pivot and partitioning ? 
 
 <details> 
   <summary>Solution</summary> 
