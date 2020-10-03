@@ -37,3 +37,13 @@ Arrays, Set and Dictionary.
 In order, pre order and post order traversal.
 
 </details>
+
+#### What's the requirements of a recursive function ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Any recursion function must have a base case and the recursive call.
+
+</details>
+
