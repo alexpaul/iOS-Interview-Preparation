@@ -266,6 +266,16 @@ fellow.info() // Hi, my name is Xavier Li
 
 </details> 
 
+#### Name three prinicples of OOP ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Inheritance, Encapsulation and Polymorphism. 
+
+</details>
+
+
 
 #### What is Protocol Oriented Programming ?
 
