@@ -12,3 +12,4 @@
 
 ## 5. [Firebase](https://github.com/alexpaul/iOS-Interview-Preparation/blob/master/Firebase.md)
 
+## 6. [Data Structures and Algorithms](https://github.com/alexpaul/iOS-Interview-Preparation/blob/master/Data-Structures-and-Algorithms.md)
