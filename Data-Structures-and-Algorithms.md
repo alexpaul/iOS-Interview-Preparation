@@ -47,3 +47,16 @@ Any recursion function must have a base case and the recursive call.
 
 </details>
 
+
+#### Name a few sorting algorithms and their runtimes ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Bubble sort, O(n ^ 2)  
+Insertion sort, O(n ^ 2)  
+Merge sort, O(n log n)  
+Quick sort, O(n log n) 
+
+</details>
+
