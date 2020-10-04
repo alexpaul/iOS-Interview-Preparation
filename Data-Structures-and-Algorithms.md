@@ -30,6 +30,15 @@ Quick sort uses partioning to return a pivot as it continues to sort a collectio
 
 </details>
 
+#### What are the properties of a doubly linked node ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+A value (the data type of the Node), a next pointer and a previous pointer property.
+
+</details>
+
 #### Name three built-in data structures in Swift ? 
 
 <details> 
