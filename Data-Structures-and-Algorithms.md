@@ -11,6 +11,16 @@ In computer science and programming the efficiency of an algorithm is measured u
 </details>
 
 
+#### Why should developers care about data structures and algorithms ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+There are numerous data structures that can be choosen for a given problem, example should one use an array to store phone numbers or use a dictionary to map the names to phone numbers and so on. The more data structures one is exposed to the better the decision making process can be in choosing the right structure. As per algorithms, those are the steps in solving a given problem, some pre-defined algorithms exist such as binary search and shortest path, but everyday developers solve software development challenges and have to come up with steps and test cases for their given solution, so as with data structures exposure and knowing who to measure efficiency with the use of Big O notation is vital to the success of a software engineer. 
+
+</details>
+
+
 #### Which sorting alogorithm uses a pivot and partitioning ? 
 
 <details> 
