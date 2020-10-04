@@ -48,12 +48,18 @@ Arrays, Set and Dictionary.
 
 </details>
 
-#### Name the types of depth-first traversals ? 
+#### Name the types of depth-first traversals and explain how each works ? 
 
 <details> 
   <summary>Solution</summary> 
 
-In order, pre order and post order traversal.
+In order, pre order and post order traversal.  
+
+In-order traversal visits the **left** nodes then the **root** node then the **right** nodes.   
+
+Pre-order traversal visits the **root** node first, then the **left** sub tree, then the **right** subtree.   
+
+Post-order traversal visits the **left** subtree, then the **right**, then visits the **root** node.
 
 </details>
 
