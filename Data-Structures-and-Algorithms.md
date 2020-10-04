@@ -70,3 +70,13 @@ Quick sort, O(n log n)
 
 </details>
 
+
+#### What is divide and conquer and give an algorithm example ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Divide and conquer is the process of taking a larger problem and breaking it down into smaller parts and solving sub parts until a solution is met. Examples of divide and conquer algorithms are merge sort, quick sort and binary search.   
+
+</details>
+
