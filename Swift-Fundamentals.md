@@ -205,24 +205,6 @@ For user input or STDIN when working in a command-line application we use `readL
  
 </details> 
 
-#### What is the runtime of `contains` on an array ?
-
-<details> 
-  <summary>Solution</summary> 
-  
-O(n)
- 
-</details> 
-
-#### What's the runtime of `contains` on a set ?
-
-<details> 
-  <summary>Solution</summary> 
-
-O(1)
- 
-</details> 
-
 #### What is the restriction on a dictionary ?
 
 <details> 
