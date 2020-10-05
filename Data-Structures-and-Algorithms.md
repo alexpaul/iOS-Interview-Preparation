@@ -63,6 +63,24 @@ Post-order traversal visits the **left** subtree, then the **right**, then visit
 
 </details>
 
+#### What is the runtime of `contains` on an array ?
+
+<details> 
+  <summary>Solution</summary> 
+  
+O(n)
+ 
+</details> 
+
+#### What's the runtime of `contains` on a set ?
+
+<details> 
+  <summary>Solution</summary> 
+
+O(1)
+ 
+</details> 
+
 #### What's the requirements of a recursive function ? 
 
 <details> 
