@@ -391,6 +391,33 @@ Structs are passed-by value (value-types) meaning copies of the objects are pass
 </details> 
 
 
+#### What is Type Annotation? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Type annotation is explicity marking the data type of a variable or constant upon initialization.
+
+```swift 
+let emojiCharacter: Character = "🚀"
+```
+
+</details> 
+
+#### What is Type Inference? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Type inference is allowing the Swift compiler to determine the data type. 
+
+```swift 
+let names = ["Bob", "Anne", "Ashley"] // in this example the names is infereed to be of type [String]
+```
+
+</details> 
+
+
 #### Is `NSString` a class or a struct? 
 
 <details> 
