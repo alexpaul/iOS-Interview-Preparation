@@ -49,6 +49,22 @@ age = 21
 
 </details> 
 
+
+#### What is a computed property ?
+
+<details> 
+  <summary>Solution</summary> 
+
+A computed property returns the value of a block of calculated logic.
+
+```swift 
+var count: Int {
+  return elements.count
+}
+```
+
+</details> 
+
 #### What are higher order functions? 
 
 <details> 
