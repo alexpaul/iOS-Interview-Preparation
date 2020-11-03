@@ -30,7 +30,7 @@ Continuous Integration (CI) / Continuous Deployment (CD) is the automation proce
 
 </details> 
 
-#### What is the terminal command for craeting a local `git` repository ? 
+#### What is the terminal command for creating a local `git` repository ? 
 
 
 <details> 
