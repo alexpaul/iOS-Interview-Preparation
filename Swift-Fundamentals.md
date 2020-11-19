@@ -434,3 +434,23 @@ let names = ["Bob", "Anne", "Ashley"] // in this example the names is infereed t
 The frame represents an object's superview and it's relationship in the coordinate space, whereas the bounds represents the objects own size and location.
 
 </details> 
+
+##### What modifier can we use to prevent a class from being subclassed? 
+
+<details> 
+  <summary>Solution</summary> 
+
+```swift
+final class BlackJack {
+  // properties
+  // initializer
+  // methods
+}
+
+class MyBlackJack: BlackJack { // COMPILER ERROR: cannot inherit from a final class
+
+}
+```
+
+</details> 
+
