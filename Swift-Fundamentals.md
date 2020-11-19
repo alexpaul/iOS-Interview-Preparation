@@ -435,7 +435,7 @@ The frame represents an object's superview and it's relationship in the coordina
 
 </details> 
 
-##### What modifier can we use to prevent a class from being subclassed? 
+#### What modifier can we use to prevent a class from being subclassed? 
 
 <details> 
   <summary>Solution</summary> 
