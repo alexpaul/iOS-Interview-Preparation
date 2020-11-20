@@ -29,6 +29,7 @@
 1. Explain the process of deploying your app from Xcode to TestFlight?
 1. Do you use continuous integration? If so which do use and why?
 1. What is Firebase? 
+1. How did you go scaling your app? 
 1. How does Firebase database work? 
 1. What's the difference between websockets and http?
 1. What's the lowest version of iOS your app supports and why?
