@@ -3,6 +3,8 @@
 1. How are you storing information?
 1. How do you persist information through relaunches?
 1. What frameworks did you use to build your application?
+1. Walk me through the most complex part of your application? 
+1. How do you learn about new topics? 
 1. How did you integrate them?
 1. What problem did they solve that you couldn’t just use Swift for?
 1. How many users could your app support?
