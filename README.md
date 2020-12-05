@@ -16,3 +16,5 @@
 
 ## 7. [Project Walkthrough](https://github.com/alexpaul/iOS-Interview-Preparation/blob/master/Project-Walkthrough.md)
 
+## 8. [Pair Programming](https://github.com/alexpaul/iOS-Interview-Preparation/blob/master/Pair-Programming.md)
+
