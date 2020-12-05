@@ -25,6 +25,7 @@
 - [ ] Use URLSession natively without any third party libraries. 
 - [ ] Comfortable using breakpoints and `po` as a debugging tool. 
 - [ ] Be able to segue and pass data to a view controller. 
+- [ ] Use of gesture recogizers e.g long press, tap. 
 - [ ] Use delegation pattern or callbacks to communicate data. 
 - [ ] Be comfortable setting up views using Storyboards, nibs. 
 - [ ] Be comfortable setting up views programmatically.
