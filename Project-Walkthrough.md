@@ -12,6 +12,7 @@
 1. How do you pass information from one screen to another?
 1. Explain your app architecture to me.
 1. How did you manage version control?
+1. Walk us through the parts of the app you worked on? 
 1. How did you track and manage tickets?
 1. What does it mean to mark your class `final`? 
 1. Did you encounter any race conditions you had to resolve?
