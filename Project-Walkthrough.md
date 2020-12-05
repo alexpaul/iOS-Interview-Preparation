@@ -9,6 +9,7 @@
 1. Walk me through the most challenging part of the app? 
 1. What problem did they solve that you couldn’t just use Swift for?
 1. How many users could your app support?
+1. Which git strategy did you use? 
 1. What would happen if you were to increase your user base by 10x? 100x? 1000x?
 1. How do you pass information from one screen to another?
 1. Explain your app architecture to me.
