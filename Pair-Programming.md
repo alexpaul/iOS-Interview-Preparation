@@ -19,9 +19,14 @@
 
 ## Checklist of topics to know
 
+- [ ] Parsing JSON data from a Web API 
 - [ ] Populate a Table View with given data. 
 - [ ] Populate a Collection View with data and create custom cell.  
 - [ ] Use URLSession natively without any third party libraries. 
+- [ ] Comfortable using breakpoints and `po` as a debugging tool. 
 - [ ] Be able to segue and pass data to a view controller. 
+- [ ] Use delegation pattern or callbacks to communicate data. 
+- [ ] Be comfortable setting up views using Storyboards, nibs. 
+- [ ] Be comfortable setting up views programmatically.
 - [ ] Be able to create animations using UIKit built-in APIs. e.g UIView.animate
 
