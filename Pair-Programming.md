@@ -29,5 +29,7 @@
 - [ ] Use delegation pattern or callbacks to communicate data. 
 - [ ] Be comfortable setting up views using Storyboards, nibs. 
 - [ ] Be comfortable setting up views programmatically.
+- [ ] Source control management using git and Github. 
 - [ ] Be able to create animations using UIKit built-in APIs. e.g UIView.animate
+- [ ] Familiarity with dependency managers e.g Cocoapods or Swift Package Manager in order to use third party libraries. 
 
