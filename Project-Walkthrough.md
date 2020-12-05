@@ -17,6 +17,7 @@
 1. How did you manage version control?
 1. Walk us through the parts of the app you worked on? 
 1. How did you track and manage tickets?
+1. How do you go about learning about new APIs and Frameworks? 
 1. What does it mean to mark your class `final`? 
 1. Did you encounter any race conditions you had to resolve?
 1. What kind of testing did you use in your application?
