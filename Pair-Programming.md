@@ -33,3 +33,6 @@
 - [ ] Be able to create animations using UIKit built-in APIs. e.g UIView.animate
 - [ ] Familiarity with dependency managers e.g Cocoapods or Swift Package Manager in order to use third party libraries. 
 
+## Reading resources 
+
+1. [Things I’ve learned from pair programming interviews](https://www.freecodecamp.org/news/things-ive-learned-from-pair-programming-interviews-35a4db7d7443/)
