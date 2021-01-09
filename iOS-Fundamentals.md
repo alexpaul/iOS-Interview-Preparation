@@ -148,3 +148,12 @@ TestFlight is used as a method of beta testing an application as it gets ready f
 The process begins from archiving a project in Xcode and uploading the binary to App Store Connect. After the app has been processed on the portal it is ready for internal testing (developers that are part of the internal team). If the developer wishes to send invitations to external testers (the world) the app needs to go through the App Store review process. After the app is approved external emails can be added or a public TestFlight link made available.
 
 </details> 
+
+#### What are the types of Local Notifications ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+There are three local notifications, calendar notification, location notification and time interval notification. 
+
+</details> 
