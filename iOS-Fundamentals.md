@@ -157,3 +157,13 @@ The process begins from archiving a project in Xcode and uploading the binary to
 There are three local notifications, calendar notification, location notification and time interval notification. 
 
 </details> 
+
+#### What is the default http method when making a request? ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+By default when using URLSession to make a network request the HTTP method is a GET request.
+
+</details> 
+
