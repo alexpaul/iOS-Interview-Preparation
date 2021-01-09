@@ -27,6 +27,15 @@ The two required methods are `numberOfRowsInSection()` and `cellForRowAt()`.
   
 </details> 
 
+#### What's the difference Push notifications and Local Notifications ? 
+
+<details> 
+  <summary>Solution</summary> 
+
+Push notifications is triggers by a server and delivered remotely to the client iOS app whereas Local notifications are triggers by iOS and delivered locally via one of the three notification triggers, namely, location, timer interval or calendar event.
+  
+</details> 
+
 #### Name the ways to persist data in iOS ? 
 
 <details> 
