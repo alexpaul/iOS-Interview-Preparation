@@ -1,7 +1,7 @@
 ## Swift Fundamentals 
 
 
-####  What's the difference between mutable and immutable ?
+#### 1. What's the difference between mutable and immutable ?
 
 <details> 
   <summary>Solution</summary> 
@@ -22,7 +22,7 @@ usIndependenceDay = "February 22nd" // sorry could not compile, this is 🇱🇨
  
 </details> 
 
-#### What is a property observer?
+#### 2. What is a property observer?
 
 <details> 
   <summary>Solution</summary> 
@@ -50,7 +50,7 @@ age = 21
 </details> 
 
 
-#### What is a computed property ?
+#### 3.What is a computed property ?
 
 <details> 
   <summary>Solution</summary> 
@@ -65,7 +65,7 @@ var count: Int {
 
 </details> 
 
-#### What are higher order functions? 
+#### 4. What are higher order functions? 
 
 <details> 
   <summary>Solution</summary> 
@@ -74,7 +74,7 @@ A function that takes another function as an argument or returns a function is s
 
 </details> 
 
-#### What is recursion? 
+#### 5. What is recursion? 
 
 <details> 
   <summary>Solution</summary> 
@@ -107,7 +107,7 @@ jobSearch(false)
 
 </details> 
 
-#### What are access control / modifiers and give three examples? 
+#### 6. What are access control / modifiers and give three examples? 
 
 <details> 
   <summary>Solution</summary> 
@@ -121,7 +121,7 @@ Three examples are:
 
 </details> 
 
-#### Name three built-in protocols in Swift and their use cases? 
+#### 7. Name three built-in protocols in Swift and their use cases? 
 
 <details> 
   <summary>Solution</summary> 
@@ -133,7 +133,7 @@ Three examples are:
 </details> 
 
 
-#### What's the benefit of an inout function? 
+#### 8. What's the benefit of an inout function? 
 
 <details> 
   <summary>Solution</summary> 
@@ -142,7 +142,7 @@ To be able to mutate via referencing the data outside the scope of a function.
 
 </details> 
 
-####  Write code to access the last element of an array ?
+#### 9. Write code to access the last element of an array ?
 
 <details> 
   <summary>Solution</summary> 
@@ -161,7 +161,7 @@ print(arr.last ?? -1) // using nil-coelescing here as last is an optional
  
 </details> 
 
-#### What is an optional ?
+#### 10. What is an optional ?
 
 <details> 
   <summary>Solution</summary> 
@@ -170,7 +170,7 @@ In Swift an optional is a type used to indicate that an object can or not have a
  
 </details> 
 
-#### What are Closures ?
+#### 11. What are Closures ?
 
 <details> 
   <summary>Solution</summary> 
@@ -193,7 +193,7 @@ someFunc { intValue, boolValue in
  
 </details> 
 
-#### What is GCD? 
+#### 12. What is GCD? 
 
 <details> 
   <summary>Solution</summary> 
@@ -202,7 +202,7 @@ Grand central dispacth is the library that iOS uses to handle concurrency.
 
 </details> 
 
-#### Name the types of loops available in Swift ?
+#### 13. Name the types of loops available in Swift ?
 
 <details> 
   <summary>Solution</summary>   
@@ -212,7 +212,7 @@ while, for-in and repeat-while
 </details> 
 
 
-#### If using a Command-line macOS application what's the function used for taking user input ?
+#### 14. If using a Command-line macOS application what's the function used for taking user input ?
 
 <details> 
   <summary>Solution</summary>   
@@ -221,7 +221,7 @@ For user input or STDIN when working in a command-line application we use `readL
  
 </details> 
 
-#### What is the restriction on a dictionary ?
+#### 15. What is the restriction on a dictionary ?
 
 <details> 
   <summary>Solution</summary> 
@@ -231,7 +231,7 @@ The keys need to conform to `Hashable`.
 </details> 
 
 
-#### What is Object Oriented Programming ?
+#### 16. What is Object Oriented Programming ?
 
 <details> 
   <summary>Solution</summary> 
@@ -264,7 +264,7 @@ fellow.info() // Hi, my name is Xavier Li
 
 </details> 
 
-#### Name three principles of OOP ? 
+#### 17. Name three principles of OOP ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -275,7 +275,7 @@ Inheritance, Encapsulation and Polymorphism.
 
 
 
-#### What is Protocol Oriented Programming ?
+#### 18. What is Protocol Oriented Programming ?
 
 <details> 
   <summary>Solution</summary> 
@@ -308,7 +308,7 @@ bike.drive(speed: 23) // current speed is 23
 </details> 
 
 
-#### What is dependency injection? 
+#### 19. What is dependency injection? 
 
 <details> 
   <summary>Solution</summary> 
@@ -318,7 +318,7 @@ Dependency Injection is used to pass all required properties and data over to an
 </details> 
 
 
-#### What framework is used for writing Unit Test in iOS ?  
+#### 20. What framework is used for writing Unit Test in iOS ?  
 
 <details> 
   <summary>Solution</summary> 
@@ -327,7 +327,7 @@ XCTest
 
 </details> 
 
-#### What is a Singleton? 
+#### 21. What is a Singleton? 
 
 <details> 
   <summary>Solution</summary> 
@@ -351,7 +351,7 @@ let otherSession = GameSession() // 'GameSession' initializer is inaccessible du
 
 </details> 
 
-#### Is `URLSession` part of `Foundation` or `UIKit`? 
+#### 22. Is `URLSession` part of `Foundation` or `UIKit`? 
 
 <details> 
   <summary>Solution</summary> 
@@ -369,7 +369,7 @@ Compile time errors occurs during the writing phase of your code. Runtime erros 
 
 </details> 
 
-#### Is `Index out of range` error on an array an compile-time error or a runtime error? 
+#### 23. Is `Index out of range` error on an array an compile-time error or a runtime error? 
 
 <details> 
   <summary>Solution</summary> 
@@ -379,7 +379,7 @@ Compile time errors occurs during the writing phase of your code. Runtime erros 
 </details> 
 
 
-#### What's the difference between Structs and Classes? 
+#### 24. What's the difference between Structs and Classes? 
 
 <details> 
   <summary>Solution</summary> 
@@ -389,7 +389,7 @@ Structs are passed-by value (value-types) meaning copies of the objects are pass
 </details> 
 
 
-#### What is Type Annotation? 
+#### 25. What is Type Annotation? 
 
 <details> 
   <summary>Solution</summary> 
@@ -402,7 +402,7 @@ let emojiCharacter: Character = "🚀"
 
 </details> 
 
-#### What is Type Inference? 
+#### 26. What is Type Inference? 
 
 <details> 
   <summary>Solution</summary> 
@@ -416,7 +416,7 @@ let names = ["Bob", "Anne", "Ashley"] // in this example the names is infereed t
 </details> 
 
 
-#### Is `NSString` a class or a struct? 
+#### 27. Is `NSString` a class or a struct? 
 
 <details> 
   <summary>Solution</summary> 
@@ -426,7 +426,7 @@ let names = ["Bob", "Anne", "Ashley"] // in this example the names is infereed t
 </details> 
 
 
-#### What's the difference between frames and bounds? 
+#### 28. What's the difference between frames and bounds? 
 
 <details> 
   <summary>Solution</summary> 
@@ -435,7 +435,7 @@ The frame represents an object's superview and it's relationship in the coordina
 
 </details> 
 
-#### What modifier can we use to prevent a class from being subclassed? 
+#### 29. What modifier can we use to prevent a class from being subclassed? 
 
 <details> 
   <summary>Solution</summary> 
