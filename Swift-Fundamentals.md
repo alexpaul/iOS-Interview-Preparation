@@ -264,7 +264,7 @@ fellow.info() // Hi, my name is Xavier Li
 
 </details> 
 
-#### Name three prinicples of OOP ? 
+#### Name three principles of OOP ? 
 
 <details> 
   <summary>Solution</summary> 
