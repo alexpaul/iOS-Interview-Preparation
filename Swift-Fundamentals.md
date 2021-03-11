@@ -360,7 +360,7 @@ URLSession is part of the Foundation framework.
 
 </details> 
 
-#### What's the difference between a compile time error and a runtime error? 
+#### 23. What's the difference between a compile time error and a runtime error? 
 
 <details> 
   <summary>Solution</summary> 
@@ -369,7 +369,7 @@ Compile time errors occurs during the writing phase of your code. Runtime erros 
 
 </details> 
 
-#### 23. Is `Index out of range` error on an array an compile-time error or a runtime error? 
+#### 24. Is `Index out of range` error on an array an compile-time error or a runtime error? 
 
 <details> 
   <summary>Solution</summary> 
@@ -379,7 +379,7 @@ Compile time errors occurs during the writing phase of your code. Runtime erros 
 </details> 
 
 
-#### 24. What's the difference between Structs and Classes? 
+#### 25. What's the difference between Structs and Classes? 
 
 <details> 
   <summary>Solution</summary> 
@@ -389,7 +389,7 @@ Structs are passed-by value (value-types) meaning copies of the objects are pass
 </details> 
 
 
-#### 25. What is Type Annotation? 
+#### 26. What is Type Annotation? 
 
 <details> 
   <summary>Solution</summary> 
@@ -402,7 +402,7 @@ let emojiCharacter: Character = "🚀"
 
 </details> 
 
-#### 26. What is Type Inference? 
+#### 27. What is Type Inference? 
 
 <details> 
   <summary>Solution</summary> 
@@ -416,7 +416,7 @@ let names = ["Bob", "Anne", "Ashley"] // in this example the names is infereed t
 </details> 
 
 
-#### 27. Is `NSString` a class or a struct? 
+#### 28. Is `NSString` a class or a struct? 
 
 <details> 
   <summary>Solution</summary> 
@@ -426,7 +426,7 @@ let names = ["Bob", "Anne", "Ashley"] // in this example the names is infereed t
 </details> 
 
 
-#### 28. What's the difference between frames and bounds? 
+#### 29. What's the difference between frames and bounds? 
 
 <details> 
   <summary>Solution</summary> 
@@ -435,7 +435,7 @@ The frame represents an object's superview and it's relationship in the coordina
 
 </details> 
 
-#### 29. What modifier can we use to prevent a class from being subclassed? 
+#### 30. What modifier can we use to prevent a class from being subclassed? 
 
 <details> 
   <summary>Solution</summary> 
