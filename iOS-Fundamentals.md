@@ -1,6 +1,6 @@
 ## iOS Fundamentals
 
-#### What are the two native frameworks used to create user interfaces in iOS? 
+#### 1. What are the two native frameworks used to create user interfaces in iOS? 
 
 <details> 
   <summary>Solution</summary> 
@@ -9,7 +9,7 @@ UIKit and SwiftUI.
 
 </details> 
 
-#### What does the `IB` in `IBOutlet` or `IBAction` stand for? 
+#### 2. What does the `IB` in `IBOutlet` or `IBAction` stand for? 
 
 <details> 
   <summary>Solution</summary> 
@@ -18,7 +18,7 @@ Interface Builder and NS stands for Next Step in the job process. Reminder to be
 
 </details> 
 
-#### What are the two required methods of a `UITableViewDataSource`? 
+#### 3. What are the two required methods of a `UITableViewDataSource`? 
 
 <details> 
   <summary>Solution</summary> 
@@ -27,7 +27,7 @@ The two required methods are `numberOfRowsInSection()` and `cellForRowAt()`.
   
 </details> 
 
-#### What's the difference Push notifications and Local Notifications ? 
+#### 4. What's the difference Push notifications and Local Notifications ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -36,7 +36,7 @@ Push notifications is triggers by a server and delivered remotely to the client 
   
 </details> 
 
-#### Name the ways to persist data in iOS ? 
+#### 5. Name the ways to persist data in iOS ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -45,7 +45,7 @@ UserDefaults, Documents directory and Core Data.
 
 </details> 
 
-#### What is `Result` type? 
+#### 6. What is `Result` type? 
 
 <details> 
   <summary>Solution</summary> 
@@ -78,7 +78,7 @@ fetchData { result in
 
 </details> 
 
-####  Describe the ways in which a view can be created ?
+#### 7. Describe the ways in which a view can be created ?
 
 <details> 
   <summary>Solution</summary> 
@@ -87,7 +87,7 @@ Programmatically, using Storyboard or a xib.
  
 </details> 
 
-#### What is ARC ? 
+#### 8. What is ARC ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -96,7 +96,7 @@ Prior to Automatic reference counting in Objective-C developers needed to keep t
 
 </details> 
 
-#### What is MVC?  
+#### 9. What is MVC?  
 
 <details> 
   <summary>Solution</summary> 
@@ -111,7 +111,7 @@ Most recently along swith SwiftUI MVVM is being quickly adopted as the newer app
 
 </details> 
 
-#### What is `URLSession` ?
+#### 10. What is `URLSession` ?
 
 <details> 
   <summary>Solution</summary> 
@@ -120,7 +120,7 @@ The class that manages Networking in iOS.
 
 </details> 
 
-#### Name three types of gesture recognizers ?
+#### 11. Name three types of gesture recognizers ?
 
 <details> 
   <summary>Solution</summary> 
@@ -129,7 +129,7 @@ UITapGestureRecognizer, UISwipeGestureRecognizer and UILongPressGestureRecognize
 
 </details> 
 
-#### Which built-in tool do we use to test performance of our application ? 
+#### 12. Which built-in tool do we use to test performance of our application ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -138,7 +138,7 @@ We use Instruments to test and analize performance of various parts of our app. 
 
 </details> 
 
-#### What is Core Data ? 
+#### 13. What is Core Data ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -147,7 +147,7 @@ Core Data is an object-relatioal graph model of representing and persisting data
 
 </details> 
 
-#### What is TestFlight and describe its process ? 
+#### 14. What is TestFlight and describe its process ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -158,7 +158,7 @@ The process begins from archiving a project in Xcode and uploading the binary to
 
 </details> 
 
-#### What are the types of Local Notifications ? 
+#### 15. What are the types of Local Notifications ? 
 
 <details> 
   <summary>Solution</summary> 
@@ -167,7 +167,7 @@ There are three local notifications, calendar notification, location notificatio
 
 </details> 
 
-#### What is the default http method when making a request? ? 
+#### 16. What is the default http method when making a request? ? 
 
 <details> 
   <summary>Solution</summary> 
