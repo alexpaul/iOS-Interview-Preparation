@@ -142,6 +142,91 @@ What can you bring to our company that others can't?
 
 What would you do to improve our product?
 
+***
+
+## Question 22
+
+What would you do if you found out your closest friend at work was stealing?
+
+***
+
+## Question 23
+
+Tell me about a time you were 75 percent through a project and had to pivot quickly. How did you handle it?
+
+***
+
+## Question 24
+
+Tell me about a time when a team member wasn't pulling their weight. How did you handle it?
+
+***
+
+## Question 25
+
+Tell me about a decision you made based on your instincts.
+
+***
+
+## Question 26
+
+Tell me about a time you used a specific metric to drive change in your department.
+
+***
+
+## Question 27
+
+Tell me about a time when you influenced change by only asking questions.
+
+***
+
+## Question 28
+
+Provide an example of a time when you had to complete a project on a budget you felt was too tight. How did you make it work?
+
+***
+
+## Question 29
+
+Tell me about a time when you handled a project outside of your scope of work. How did you approach it?
+
+***
+
+## Question 30
+
+Do you know our CEO? How do you spell his name?
+
+***
+
+## Question 31
+
+How would you introduce our company in an elevator pitch?
+
+***
+
+## Question 32
+
+Which of our company's leadership principles do you align with most?
+
+***
+
+## Question 33
+
+What does our [name of company value] emphasize?
+
+> Please review and familiarize yourself with the company's mission, values and priciples. 
+
+***
+
+
+## Question 34
+
+Do you know how many principles or values our company has?
+
+> Please review and familiarize yourself with the company's mission, values and priciples. 
+
+***
+
 
 # Questions for the interviewers 
 
@@ -182,11 +267,53 @@ What opportunities will I have to learn and grow?
 
 ## Question 6
 
+What do you feel is the biggest challenge our company is currently facing?
+
+***
+
+## Question 7
+
+What do you love about your role?
+
+***
+
+
+## Question 8
+
+How would you describe the team I would be working with?
+
+***
+
+
+## Question 9
+
+What is a typical day like in this role?
+
+***
+
+
+## Question 10
+
+What qualities are required to succeed at your company?
+
+***
+
+## Question 11
+
+Are there any new or unique customer trends you're currently experiencing or projecting?
+
+***
+
+
+## Question 12
+
 What are the next steps?
 
 > Very important question to ask as email exchange could be difficult at times to get the context you're looking for.
 
 ***
+
+
 
 
 
