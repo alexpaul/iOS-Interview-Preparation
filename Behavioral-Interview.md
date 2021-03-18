@@ -48,7 +48,7 @@ What are some things you could've done better in your projects?
 
 ***
 
-## Question 5
+## Question 6
 
 Describe a project and the impact it had on the company.
 
@@ -312,6 +312,11 @@ What are the next steps?
 > Very important question to ask as email exchange could be difficult at times to get the context you're looking for.
 
 ***
+
+
+# Resouces 
+
+1. [Top Interview Questions](https://www.topinterview.com/interview-advice/amazon-interview-questions-and-answers)
 
 
 
