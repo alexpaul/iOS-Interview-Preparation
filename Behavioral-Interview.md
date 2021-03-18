@@ -304,8 +304,14 @@ Are there any new or unique customer trends you're currently experiencing or pro
 
 ***
 
-
 ## Question 12
+
+What are some of the biggest challenges you face at your company and some ways you solve or project to solve them? 
+
+***
+
+
+## Question 13
 
 What are the next steps?
 
