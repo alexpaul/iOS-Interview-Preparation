@@ -1,6 +1,7 @@
 # Behavioral Interview 
 
 > [Top Interview](https://www.topinterview.com/interview-advice/spotify-interview-questions-and-answers): 
+
 > Situation: Think about a situation or challenge you've faced at work that directly relates to the question at hand. 
 > This might include working with data, managing projects, communicating with difficult clients, or leading a team.
 
