@@ -14,7 +14,7 @@
 * Protocols
 * Inheritance
 * Structs and Classes
-* Concurrency: Race Condition, Threading, Process, Semaphore
+* Concurrency: Dispatch, DispatchQueue, Race Condition, Threading, Process, Semaphore...
 * TableView
 * UICollectionView
 * UIStackView
