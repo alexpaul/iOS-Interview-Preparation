@@ -22,3 +22,4 @@
 * Combine
 * Dependency Injection
 * Singleton
+* Initialialization
