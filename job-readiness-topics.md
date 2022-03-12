@@ -16,7 +16,7 @@
 * Structs and Classes
 * Concurrency: Race Condition, Threading, Process, Semaphore
 * TableView
-* CollectionView
+* UICollectionView
 * UIStackView
 * NSCache
 * Dependency Injection
