@@ -19,8 +19,14 @@
 * CollectionView
 * UIStackView
 * NSCache
-* Combine
 * Dependency Injection
 * Singleton
 * Initialialization
 * Error Handling
+
+
+## Newer APIs/Frameworks
+
+* Combine
+* SwiftUI
+* Swift Concurrency (async/await, actors, task...)
