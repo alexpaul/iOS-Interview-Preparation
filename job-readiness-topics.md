@@ -23,3 +23,4 @@
 * Dependency Injection
 * Singleton
 * Initialialization
+* Error Handling
