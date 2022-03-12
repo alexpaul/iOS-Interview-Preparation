@@ -9,7 +9,7 @@
 * URLSession
 * RestFul API
 * HTTP Methods
-* Parse JSON
+* Parsing JSON
 * Codable: Encodable & Decodable
 * Protocols
 * Inheritance
