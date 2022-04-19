@@ -143,7 +143,7 @@ We use Instruments to test and analize performance of various parts of our app. 
 <details> 
   <summary>Solution</summary> 
 
-Core Data is an object-relatioal graph model of representing and persisting data in an appliation.
+Core Data is an object-relational graph model of representing and persisting data in an appliation.
 
 </details> 
 
