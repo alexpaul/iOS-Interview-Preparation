@@ -2,6 +2,9 @@
 
 > Objective is to add as many questions to this repo to better prepare for iOS interview preparation. If you see an issue or want to add some additional questions, feel free to open a PR or an issue. Thanks for visiting and staring ⭐️ this repo so others can find it :-]  
 
+<a href="https://www.buymeacoffee.com/alexpaulnyc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ## Some elements of Job Search 
 
 * Applying for jobs 
